@@ -1,0 +1,29 @@
+[
+  {
+    "item_id": "zm201",
+    "title": "Paneer Butter Masala",
+    "cost": 230,
+    "user_rating": 4.2,
+    "eta": "30 mins",
+    "offer": "10% OFF",
+    "eatery": "Dhaba Express"
+  },
+  {
+    "item_id": "zm202",
+    "title": "Chicken Biryani",
+    "cost": 330,
+    "user_rating": 4.4,
+    "eta": "25 mins",
+    "offer": "Buy 1 Get 1",
+    "eatery": "Nawab's Kitchen"
+  },
+  {
+    "item_id": "zm203",
+    "title": "Margherita Pizza",
+    "cost": 310,
+    "user_rating": 4.4,
+    "eta": "30 mins",
+    "offer": "Pro extra 15% OFF",
+    "eatery": "Italiano"
+  }
+]

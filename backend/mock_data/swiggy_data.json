@@ -1,0 +1,29 @@
+[
+  {
+    "dish_id": "sw101",
+    "name": "Paneer Butter Masala",
+    "price": 215,
+    "rating": 4.1,
+    "delivery_time_mins": 35,
+    "discount": "Flat ₹50 OFF",
+    "restaurant": "Punjabi Rasoi"
+  },
+  {
+    "dish_id": "sw102",
+    "name": "Chicken Biryani",
+    "price": 350,
+    "rating": 4.5,
+    "delivery_time_mins": 40,
+    "discount": "20% OFF",
+    "restaurant": "Biryani Blues"
+  },
+  {
+    "dish_id": "sw103",
+    "name": "Margherita Pizza",
+    "price": 299,
+    "rating": 4.3,
+    "delivery_time_mins": 25,
+    "discount": "50% OFF up to ₹100",
+    "restaurant": "Pizza Place"
+  }
+]
